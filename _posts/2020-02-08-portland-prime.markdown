@@ -3,6 +3,21 @@ layout: post
 title:  "Portland Prime tournament, Feb. 8, 2020"
 date:   2020-02-18 15:11:27 -0800
 categories: aar
+
+image:
+  - name: 2020-02-08-portland-prime/IMG_4631
+    extension: jpeg
+  - name: 2020-02-08-portland-prime/IMG_4748
+    extension: jpeg
+  - name: 2020-02-08-portland-prime/IMG_4727
+    extension: jpeg
+  - name: 2020-02-08-portland-prime/IMG_4645
+    extension: jpeg
+  - name: 2020-02-08-portland-prime/IMG_4802
+    extension: jpeg
+  - name: 2020-02-08-portland-prime/IMG_4793
+    extension: jpeg
+
 ---
 This is the story of my first major Armada tournament, at Red Castle Games. From building a fleet list to getting smashed by some great players, I had a blast.
 
@@ -13,7 +28,8 @@ Ever since Raddus and Profundity were released, I've wanted to play them. You sa
 
 Then Fantasy Flight released errata changing how Raddus works. No more wondering from which ship the surprise would drop, it had to be from the flagship. Many people on the Internet complained that he had been "nerfed"... And this is when I was positive I had to play him. I have a contrarian streak. And now I could drop a heavy hitter at nearly distance four from my flagship?
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4631.jpeg)
+{% assign image = page.image[0] %}
+{% include img_srcset.html %}
 _Next turn's Raddus drop circled in red_
 
 Awesome, let's do this.
@@ -76,7 +92,8 @@ Dealing with heavy squadrons was also a concern. After a practice match against 
 
 I tried this out against Matt, who I asked to bring as evil a Sloane list as he could. Profundity plowed into the bomber cloud at high speed and made it to turn three in rough shape, dropping the Liberty in position behind the Quasar to dispatch it with one shot.
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4748.jpeg)
+{% assign image = page.image[1] %}
+{% include img_srcset.html %}
 _Bad for the Quasar, but also bad for the Profundity_
 
 Matt's Avenger, however, came around the next turn to nuke the MC75. The Hammerhead went down soon after. Mon Karren was not up to the task of surviving bombers while keeping on target with its front arc and out of the ISD's own medium-range threat radius, so it fled for the other side of the board. Perhaps if the MC75 had been able to block the ISD in one more turn. My ATN fighter cover did a decent job protecting the flagship, despite Dutch getting sniped turn two. And Ordnance Pods made the difference in killing a couple squadrons with flak, a good trade for three points.
@@ -85,13 +102,15 @@ I made a few changes to the list after this game, radically changing Mon Karren 
 
 What about multiple small units (MSU)? Yeah, I was worried about this, too. I played a practice match with Thomas and his Mothma MC30s that didn't go so well. This is where I learned better how to "catch" small ships that can last-first you... and that going to speed zero to do so is too big a risk to take. In the photo below, Admonition barely managed to squeeze in where the Y-wing is and exploded the Liberty (no defense tokens!) top of next turn.
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4727.jpeg)
+{% assign image = page.image[2] %}
+{% include img_srcset.html %}
 _If only I'd deployed the Hammerhead further behind the MC75!_
 
 ### One of each Rebel large
 I didn't own a Liberty when I started building this list. It started off with Defiance on a Home One-model MC80. The MC80H1 is tough, but not too fast, and I was concerned about not being able to either escape or chase down smaller ships after killing the main target. It also is pretty expensive, which made it hard to fit in four squadrons (for more deployments and MC75 protection). Here it is in action vs. Tanner, about to die from bombers after taking down his MC75:
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4645.jpeg)
+{% assign image = page.image[3] %}
+{% include img_srcset.html %}
 _I replaced the enemy MC75 with these dice_
 
 The Star Cruiser looked just right for the job: hits hard, can fly fast, and is about one Y-wing cheaper. So I found a Liberty for sale online and excitedly subbed Mon Karren in for the Defiance.
@@ -101,7 +120,8 @@ Surprise Attack was my best choice for the red objective. No one was going to pi
 
 After the Sloane match against Matt, I tossed out Solar Corona as my blue objective. It ended up hurting me with lost accuracies and did nothing against bombers, a serious threat to my list. I'd chosen it to give me full knowledge of my opponent's deployment, but Matt suggested Salvage Run. This would also give me some control over engagement, since the station and the tokens would encourage us to brawl in the middle of the map. I had also realized that I needed an option to make up some points with objectives, since the MC75 and its up-to-160 points would be sacrificed in many games. So in with Salvage Run and one VCX to frisbee the tokens over to my ships.
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4802.jpeg)
+{% assign image = page.image[4] %}
+{% include img_srcset.html %}
 _My typical Salvage Run setup_
 
 At first I played with Rift Ambush for yellow. The idea, again, was to control the engagement, this time with obstacle placement. In particular, I thought I could punish an SSD with asteroids and the threat of a speed-zero crash if it hit the rift. But after playing it a couple times, it wasn't that strong and I wanted more anti-squadron help. Asteroid Tactics sounded fun (space worms!) and would give me obstacle control, a way to potentially reclaim defense tokens, and squadron hate from the worms. I also assumed people would like this one the least after Surprise Attack, leaving me with the chance to farm 80 points from Salvage Run tokens.
@@ -109,9 +129,11 @@ At first I played with Rift Ambush for yellow. The idea, again, was to control t
 ## The tournament
 So after all those practice battles and list tweaks, it was tournament time! I joked on Discord that I was gunning for the "Anakin prize", given for last place. Setting expectations low helps me stay cool and I knew I'd be a bit nervous. Portland has a sizeable community of strong players. I didn't think I had a good chance to place well, but was looking forward to the learning opportunities offered getting my ships blown up. And I was sure someone would bring an SSD for me to blow up, too.
 
-![]({{site.baseurl}}/img/2020-02-08-portland-prime/IMG_4793.jpeg)
+{% assign image = page.image[5] %}
+{% include img_srcset.html %}
 _Prizes!_
 
 When it was all over, I'd played only Rebels, only the kind of matchups I'd feared, never against an SSD, always as second player, and had most opponents pick Asteroid Tactics. I ended up in 19th place out of 25, beating my expectations and definitely delivering those learning opportunities. Turns out the Anakin prize was pretty good, though--including a set of fancy acrylic command tokens! Maybe next year ;)
 
-I'll write up after-action reports from each match and post them here.
+I'll write up after-action reports from each match and post them here:
+- [Match 1: Oh no it's MSU]({{site.baseurl}}/aar/2020/02/18/portland-prime-match-1.html)
