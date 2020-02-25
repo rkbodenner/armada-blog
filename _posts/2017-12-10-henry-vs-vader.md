@@ -2,7 +2,7 @@
 layout: post
 title:  "Henry vs. Vader"
 publish_date:   2020-02-24 17:30:20 -0800
-categories: aar, henry
+categories: aar henry
 
 image:
   - name: henry-vs-vader/IMG_7743
