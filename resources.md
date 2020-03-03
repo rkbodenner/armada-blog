@@ -27,3 +27,7 @@ permalink: /resource/
 - [Armada Warlords](https://armadawarlords.hivelabs.solutions)
 - [Flagship](https://flagship.barronsoftware.com)
 - [Armada Fleets Designer](https://swm-dmb.blogspot.com), a web and Android app
+
+## Campaign tools
+- [Digital tools for Rebellion in the Rim](https://drive.google.com/drive/folders/1cWV8WwrjLc-AxvzyWIBgmWhQ4U_U6XK1) by Rynohardt, including a map and fleet rosters
+- [Bicsay Campaign](https://community.fantasyflightgames.com/topic/302885-bicsay-campaign-chapters-1-7-almost-there-now/), a fan-made starter campaign for one player and a teacher/GM
